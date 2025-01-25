@@ -1,0 +1,14 @@
+{
+    "_default": {
+        "1": {
+            "name": "Abdumajid",
+            "lastname": "Abdulazizov",
+            "job": "Student"
+        },
+        "2": {
+            "name": "Mehroj",
+            "lastname": "abdullayev",
+            "job": "Developer"
+        }
+    }
+}
