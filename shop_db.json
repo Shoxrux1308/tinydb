@@ -17,6 +17,24 @@
             "price": 1200,
             "color": "Black",
             "memory": 128
+        },
+        "4": {
+            "name": "iPad Air",
+            "price": 900,
+            "color": "Blue",
+            "memory": 128
+        },
+        "5": {
+            "name": "Samsung Galaxy Tab S8",
+            "price": 800,
+            "color": "Silver",
+            "memory": 256
+        },
+        "6": {
+            "name": "Microsoft Surface Pro 9",
+            "price": 1300,
+            "color": "Black",
+            "memory": 512
         }
     }
 }
